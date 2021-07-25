@@ -1,6 +1,6 @@
 - 👋 Holà, I’m Amandine (@amandine-arnould)
 - 👀 I’m interested in web development (front)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning to code at Le Wagon
 - 💞️ I’m looking to collaborate on projects with social or ecological focus
 - 📫 You can reach me here: amandine.arnould90@gmail.com
 
